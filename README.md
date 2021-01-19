@@ -9,7 +9,7 @@
  Meta Box proves a better user interface for custom options. therefore I added in this movies reviews plugin.
  
 <h1> Recommended modules</h1>
- This module requires no modules outside of Drupal core.
+ This module requires no modules.
  
 <h1>  Installation</h1>
  Install as you would normally install a WordPress plugin. 
@@ -33,3 +33,7 @@ back, disable the module and clear caches.
     
  <h1>  FAQ</h1>
 <h1>  Maintainers</h1>
+Code Reference: https://developer.wordpress.org/reference/functions/register_post_type/
+Developer Resources: https://developer.wordpress.org/resource/dashicons/#html
+Code Reference : https://developer.wordpress.org/reference/functions/flush_rewrite_rules/
+
