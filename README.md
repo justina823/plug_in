@@ -2,7 +2,7 @@
  <h1>  Introduction </h1>
  
   this is a WordPress plugin for user writes the movies review. In this plugin, user needs to put release year, director, IMDb link, photo and rating.
- it is can let the user manage the post with the same content. 
+ it is can let the user manage the post with the content. 
  
  <h1> Requirements</h1>
  user need to have to download a plugin called Meta Box. it will show when the user installed this movies reviews plugin.
