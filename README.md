@@ -30,7 +30,8 @@ back, disable the module and clear caches.
  add 
 
      `the_meta();`
-    
+  
+ into <div class="entry-content"> 
  <h1>  FAQ</h1>
 <h1>  Maintainers</h1>
 Code Reference: https://developer.wordpress.org/reference/functions/register_post_type/ <br />
