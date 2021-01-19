@@ -51,7 +51,8 @@ back, disable the module and clear caches.
 	</div><!-- .entry-content -->
  ```
  
- <h1>  FAQ</h1>
+ <h1>  continue developing</h1>
+ continue develop can add the css to customize the layout 
 <h1>  Maintainers</h1>
 Code Reference: https://developer.wordpress.org/reference/functions/register_post_type/ <br />
 Developer Resources: https://developer.wordpress.org/resource/dashicons/#html  <br />
