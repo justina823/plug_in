@@ -31,8 +31,25 @@ back, disable the module and clear caches.
 
      `the_meta();`
   
- into `<div class="entry-content">`
+ into `<div class="entry-content">` 
  
+ sample: 
+ ```
+ 	<div class="entry-content">
+		<?php
+		the_content();
+		the_meta();
+		wp_link_pages(
+			array(
+				'before'   => '<nav class="page-links" aria-label="' . esc_attr__( 'Page', 'twentytwentyone' ) . '">',
+				'after'    => '</nav>',
+				/* translators: %: page number. */
+				'pagelink' => esc_html__( 'Page %', 'twentytwentyone' ),
+			)
+		);
+		?>
+	</div><!-- .entry-content -->
+ ```
  
  <h1>  FAQ</h1>
 <h1>  Maintainers</h1>
