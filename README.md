@@ -3,7 +3,13 @@
  
   this is a WordPress plugin for user writes the movies review. In this plugin, user needs to put release year, director, IMDb link, photo and rating.
  it is can let the user manage the post with the content. 
- 
+
+* register the custom post type 
+* set configuration options for the custom post type 
+*Create custom fields using core WordPress 
+* interface with Meta Box for better custom fields 
+* add a taxonomy for custom categories 
+
  <h1> Requirements</h1>
  user need to have to download a plugin called Meta Box. it will show when the user installed this movies reviews plugin.
  Meta Box proves a better user interface for custom options. therefore I added in this movies reviews plugin.
