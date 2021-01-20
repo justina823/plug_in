@@ -23,9 +23,7 @@
  
 <h1>  Configuration</h1>
  The module has no menu or modifiable settings. There is no configuration. When
-enabled, the module will prevent the links from appearing. To get the links
-back, disable the module and clear caches.
-
+enabled, the module will prevent the links from appearing.
  <h1>  Troubleshooting</h1>
  If the post information does not display, check the following:
  
