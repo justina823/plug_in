@@ -5,8 +5,8 @@
  it is can let the user manage the post with the content. 
 
 * register the custom post type 
-* set configuration options for the custom post type 
-*Create custom fields using core WordPress 
+* set configuration options for the custom post type
+* Create custom fields using core WordPress 
 * interface with Meta Box for better custom fields 
 * add a taxonomy for custom categories 
 
